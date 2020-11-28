@@ -1,3 +1,3 @@
 # Mask_nnfl
 
-For NNFL submission
+For NNFL research paper assignment.
